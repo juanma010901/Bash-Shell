@@ -1,6 +1,6 @@
 # Bash-Shell 🚀
 
-Lo primero debes saber que estos scripts sólo pueden ser ejecutados en entornos []() o [](), sin embargo, si te encuentras en un entorno de Windows existen algunas estrategias que puedes utilizar para acceder a estos entornos.
+Lo primero debes saber que estos scripts sólo pueden ser ejecutados en entornos Unix [Linux](https://www.kernel.org/) o [macOS](https://www.apple.com/macos/), sin embargo, si te encuentras en un entorno de Windows existen algunas estrategias que puedes utilizar para acceder a estos entornos.
 
 ## Requisitos 📋
 - Puedes crear una máquina virtual que te permtia ejecutar estos comandos en alguno de los entornos mencionados anteriormente. Puedes usar [Virtual Box](https://www.virtualbox.org/), [VM Ware](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html).
