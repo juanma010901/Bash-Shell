@@ -1,3 +1,5 @@
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=juanma010901.Bash-Shell&left_text=Visitantes)
+
 # Bash-Shell 🚀
 
 Lo primero debes saber que estos scripts sólo pueden ser ejecutados en entornos Unix [Linux](https://www.kernel.org/) o [macOS](https://www.apple.com/macos/), sin embargo, si te encuentras en un entorno de Windows existen algunas estrategias que puedes utilizar para acceder a estos entornos.
